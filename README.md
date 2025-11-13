@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Maria 👋
 
-<!--
-**Finarosalina/Finarosalina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Scientific & Operations Leader | Digital Health | Data Science | Medical Devices (PRRC)**
 
-Here are some ideas to get you started:
+I bring 20+ years of experience in:
+- R&D, laboratory and industrial operations  
+- Quality & Regulatory (ISO 13485, PRRC, clinical data)  
+- Medical devices & dermocosmetics  
+- Leadership of 130+ people  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+combined with strong capabilities in:
+- Python · Pandas · NumPy · Scikit-learn  
+- SQL · Power BI · Streamlit  
+- Machine Learning & predictive analytics  
+
+🌱 Currently focused on Digital Health, applied AI, clinical data modeling and data-driven innovation for healthcare, biotech and MedTech.  
+📫 How to reach me: linkedin.com/in/maria-pais-fajin  
