@@ -6,7 +6,9 @@ I bring 20+ years of experience in:
 - R&D, laboratory and industrial operations  
 - Quality & Regulatory (ISO 13485, PRRC, clinical data)  
 - Medical devices & dermocosmetics  
-- Leadership of 130+ people  
+- Leadership of 130+ people
+- Agile Methodologies
+- Project Leader
 
 combined with strong capabilities in:
 - Python · Pandas · NumPy · Scikit-learn  
