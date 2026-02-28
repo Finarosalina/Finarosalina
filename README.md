@@ -1,19 +1,42 @@
 ### Hi, I'm Maria 👋
 
-**Scientific & Operations Leader | Digital Health | Data Science | Medical Devices (PRRC)**
+Senior Data Scientist | Scientific & R&D Data | Healthcare & Life Sciences
 
-I bring 20+ years of experience in:
-- R&D, laboratory and industrial operations  
-- Quality & Regulatory (ISO 13485, PRRC, clinical data)  
-- Medical devices & dermocosmetics  
-- Leadership
-- Agile Methodologies
-- Project Leader
+I bring 20+ years of experience at the intersection of science, regulated healthcare, and data analytics.
 
-combined with strong capabilities in:
-- Python · Pandas · NumPy · Scikit-learn  
-- SQL · Power BI · Streamlit  
-- Machine Learning & predictive analytics  
+Background in:
 
-🌱 Currently focused on Digital Health, applied AI, clinical data modeling and data-driven innovation for healthcare, biotech and MedTech.  
-📫 How to reach me: linkedin.com/in/maria-pais-fajin  
+Medical device and healthcare environments (ISO 13485, PRRC)
+
+R&D, laboratory and manufacturing data
+
+Quality, regulatory and clinical data contexts
+
+Cross-functional collaboration in scientific and operational teams
+
+Technical skills:
+
+Python (Pandas, NumPy, scikit-learn)
+
+SQL · Power BI · Streamlit
+
+Statistical analysis and data visualization
+
+Machine learning and predictive modeling
+
+Data integration and workflow automation
+
+Focus areas:
+
+Scientific and R&D data analytics
+
+Real-world and clinical data analysis
+
+Process and quality data in regulated environments
+
+AI-driven decision support for healthcare and life sciences
+
+I am particularly interested in applying data science to accelerate research, improve product quality, and enable data-driven innovation in pharma, biotech and MedTech.
+
+📫 How to reach me:
+linkedin.com/in/maria-pais-fajin  
