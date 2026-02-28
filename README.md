@@ -2,7 +2,7 @@
 
 **Senior Data Scientist | Scientific & Operational Data | Healthcare & Life Sciences**
 
-I combine **20+ years of experience in regulated healthcare and industrial environments** with strong expertise in data analytics and machine learning.
+I combine **10+ years of experience in regulated healthcare and industrial environments** with strong expertise in data analytics and machine learning.
 
 My background bridges **science, quality, and operations**, translating laboratory, clinical, and manufacturing data into actionable insights for decision-making.
 
