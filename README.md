@@ -18,10 +18,12 @@ My background bridges **science, quality, and operations**, translating laborato
 
 ### 💻 Technical skills
 - **Python** (Pandas, NumPy, scikit-learn)
-- **SQL · Power BI · Streamlit**
+- SQL Big Data & Distributed Systems: Spark, Kafka, Cassandra, MongoDB, Redis, Graph algorithms
 - Statistical analysis, data visualization, and time series
 - Machine learning and predictive modeling
 - Data integration, **ETL**, and workflow automation
+- Visualization & BI: Power BI, Tableau, Streamlit
+- Analysis & ML: Statistical modeling, predictive analytics, time series
 
 ---
 
