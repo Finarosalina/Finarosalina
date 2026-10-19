@@ -2,7 +2,9 @@
 
 **Senior Data Scientist | Scientific & Operational Data | Healthcare & Life Sciences**
 
-I combine **10+ years of experience in regulated healthcare and industrial environments** with strong expertise in data analytics and machine learning.
+Chemist turned health data scientist. 20 years making data trustworthy — from lab and
+manufacturing data to clinical and real-world data in regulated medical-device environments
+(ISO 13485, ICH-GCP, GDPR).
 
 My background bridges **science, quality, and operations**, translating laboratory, clinical, and manufacturing data into actionable insights for decision-making.
 
@@ -17,7 +19,6 @@ My background bridges **science, quality, and operations**, translating laborato
 ---
 
 ### 💻 Technical skills
-- **Python** (Pandas, NumPy, scikit-learn)
 - SQL Big Data & Distributed Systems: Spark, Kafka, Cassandra, MongoDB, Redis, Graph algorithms
 - Statistical analysis, data visualization, and time series
 - Machine learning and predictive modeling
@@ -27,13 +28,20 @@ My background bridges **science, quality, and operations**, translating laborato
 
 ---
 
-### 🔬 Focus areas
-- Scientific and R&D data analytics  
-- Real-world and clinical data analysis  
-- Process and quality analytics in regulated environments  
-- AI-driven decision support for pharma, biotech, and MedTech  
-
+### Stack
+SQL · Python (pandas, scikit-learn, XGBoost) · R · PySpark · Git · Power BI · AWS · GCP
 ---
 
+### Featured projects
+| Project | What it shows |
+|---|---|
+| [rwe-health-analytics](https://github.com/Finarosalina/rwe-health-analytics) | Modular pipeline for synthetic EHR data, cohort exploration, clinical EDA |
+| [Explainable ECG arrhythmia detection](#) | PySpark on 21,799 PTB-XL records, RF/XGBoost/1D-CNN, SHAP |
+| [alzheimer-speech-detection](https://github.com/Finarosalina/alzheimer-speech-detection) | ML pipeline for cognitive decline from speech |
+
+### Data I work with
+Hospital pathology data · clinical investigation data (CRF) · post-market data ·
+IQVIA/HMR market data · MIMIC-IV (credentialed) · PTB-XL ECG
+
 📫 **Connect with me:**  
-[linkedin.com/in/maria-pais-fajin](https://linkedin.com/in/maria-pais-fajin)
+  [LinkedIn](https://linkedin.com/in/maria-pais-fajin) 
